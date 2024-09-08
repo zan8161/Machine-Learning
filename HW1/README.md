@@ -9,3 +9,4 @@
 ## 3. Pred result
 
 ![image](https://github.com/zan8161/Machine-Learning/blob/main/HW1/pics/Five_img_pred_result.png)
+Hi
